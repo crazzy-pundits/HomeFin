@@ -16,3 +16,4 @@ This is basically a home financial software. Atleast we are starting from that. 
 5. Also for pt 4 above, should the process be manual or automatic. Again depends on the bank. 
 
 6. For each month I should be getting how much change in my assests are there.
+_+_+_+_+_+_
